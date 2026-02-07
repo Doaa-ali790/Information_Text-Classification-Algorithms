@@ -112,7 +112,7 @@ The choice of algorithm depends on:
 ---
 
 ## Author
-**Doaa Ali**
+https://github.com/kk7nc
 
 ## Field
 Natural Language Processing (NLP)
